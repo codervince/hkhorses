@@ -1,3 +1,17 @@
+##what we need to find out?
+given a racedate, horsecode:
+did H do tw on dayofrace
+fasttrackwork between thisrace and LN1? - what is fast
+all tw times
+lastbarriertrialjockey
+lasttworkjockey
+
+##vet
+anylongbreaks- get date started and return for stats
+seriousinjuries
+
+
+
 # hkhorses
 For a horsecode, gets horse info and previous info (vet + pedigree + tw info) down to LN races
 
